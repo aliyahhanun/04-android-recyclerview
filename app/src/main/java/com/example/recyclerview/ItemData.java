@@ -1,0 +1,80 @@
+package com.example.recyclerview;
+
+public class ItemData {
+    public static String itemData() {
+        return "[" + "{'name':'AJ CHAYAPOL', 'year': '2001'}," +
+                "{'name':'AOU THANABOON', 'year': '2000'}," +
+                "{'name':'ARM WEERAYUT', 'year': '1991'}," +
+                "{'name':'AUN NAPAT', 'year': '2003'}," +
+                "{'name':'AYE SARUNCHANA', 'year': '2000'}," +
+                "{'name':'BIMBEAM PRAEKWAN', 'year': '2000'}," +
+                "{'name':'BOOK KASIDET', 'year': '1996'}," +
+                "{'name':'BOOM THARATORN', 'year': '1998'}," +
+                "{'name':'BRIGHT VACHIRAWIT', 'year': '1997'}," +
+                "{'name':'CAPTAIN PASSATORN', 'year': '2004'}," +
+                "{'name':'CHAMP NATTHARAT', 'year': '1989'}," +
+                "{'name':'CHIMON WACHIRAWIN', 'year': '2000'}," +
+                "{'name':'CIIZE APICHAYA', 'year': '1999'}," +
+                "{'name':'DEW JIRAWAT', 'year': '2000'}," +
+                "{'name':'DRAKE SATTABUT', 'year': '2000'}," +
+                "{'name':'DUNK NATACHAI', 'year': '2000'}," +
+                "{'name':'EARN PREEYAPHAT', 'year': '2001'}," +
+                "{'name':'EARTH PIRAPAT', 'year': '1994'}," +
+                "{'name':'EURO THANASET', 'year': '1999'}," +
+                "{'name':'FAH YAONGWARE', 'year': '1999'}," +
+                "{'name':'FILM RACHANUN', 'year': '2000'}," +
+                "{'name':'FIRST KANAPHAN', 'year': '1998'}," +
+                "{'name':'FLUK PISITH', 'year': '2002'}," +
+                "{'name':'FLUKE GAWIN', 'year': '1997'}," +
+                "{'name':'FLUKE PUSIT', 'year': '1997'}," +
+                "{'name':'FOEI PATARA', 'year': '1995'}," +
+                "{'name':'FORCE JIRATCHAPONG', 'year': '1997'}," +
+                "{'name':'FORD ARUN', 'year': '2002'}," +
+                "{'name':'FOURTH NATTAWAT', 'year': '2004'}," +
+                "{'name':'GEMINI NORAWIT', 'year': '2004'}," +
+                "{'name':'GIGIE CHANUPHAT', 'year': '1996'}," +
+                "{'name':'GODJI TACHAKORN', 'year': '1985'}," +
+                "{'name':'GOLF KITTIPAT', 'year': '1981'}," +
+                "{'name':'GUN ATTHAPHAN', 'year': '1993'}," +
+                "{'name':'GUNSMILE CHANAGUN', 'year': '1996'}," +
+                "{'name':'GUY SIVAKORN', 'year': '1992'}," +
+                "{'name':'INDY THANATHAT', 'year': '2005'}," +
+                "{'name':'JAMIE JUTHAPICH', 'year': '1997'}," +
+                "{'name':'JAN PLOYSHOMPOO', 'year': '1995'}," +
+                "{'name':'JANE RAMIDA', 'year': '1999'}," +
+                "{'name':'JENNIE PANHAN', 'year': '1986'}," +
+                "{'name':'JIMMY JITARAPHOL', 'year': '1994'}," +
+                "{'name':'JJ CHAYAPOL', 'year': '2000'}," +
+                "{'name':'JOONG ARCHEN', 'year': '2001'}," +
+                "{'name':'JOSS WAY-AR', 'year': '1996'}," +
+                "{'name':'JUNE WANWIMOL', 'year': '2000'}," +
+                "{'name':'KAPOOK PHATCHARA', 'year': '1994'}," +
+                "{'name':'KAY LERTSITTICHAI', 'year': '1996'}," +
+                "{'name':'KHAOTUNG THANAWAT', 'year': '1998'}," +
+                "{'name':'KRIST PERAWAT', 'year': '1995'}," +
+                "{'name':'LEO SAUSSAY', 'year': '1990'}," +
+                "{'name':'LOOKJUN BHASIDI', 'year': '1998'}," +
+                "{'name':'LOUIS THANAWIN', 'year': '2000'}," +
+                "{'name':'LUKE ISHIKAWA', 'year': '1995'}," +
+                "{'name':'MARC PAHUN', 'year': '2002'}," +
+                "{'name':'MEK JIRAKIT', 'year': '1994'}," +
+                "{'name':'MICK METAS', 'year': '2006'}," +
+                "{'name':'MIKE CHINNARAT', 'year': '1993'}," +
+                "{'name':'MIX SAHAPHAP', 'year': '1998'}," +
+                "{'name':'MOND TANUTCHAI', 'year': '1997'}," +
+                "{'name':'MOOK WORRANIT', 'year': '1996'}," +
+                "{'name':'NANON KORAPAT', 'year': '2000'}," +
+                "{'name':'NEW THITIPOOM', 'year': '1993'}," +
+                "{'name':'OFF JUMPOL', 'year': '1991'}," +
+                "{'name':'OHM PAWAT', 'year': '2000'}," +
+                "{'name':'PERTH TANAPON', 'year': '2000'}," +
+                "{'name':'PLUEM PURIM', 'year': '1997'}," +
+                "{'name':'PRIM CHANIKARN', 'year': '2004'}," +
+                "{'name':'PUIMEK NAPASORN', 'year': '1997'}," +
+                "{'name':'SING HARIT', 'year': '1996'}," +
+                "{'name':'TAY TAWAN', 'year': '1991'}," +
+                "{'name':'TOPTAP JIRAKIT', 'year': '1994'}," +
+                "{'name':'WHITE NAWAT', 'year': '1995'}," +
+                "{'name':'WIN METAWIN', 'year': '1999'}" + "]";
+    }
+}
